@@ -1,16 +1,15 @@
-  # E-Commerce-BackEnd(ORM)
+  # E-Commerce Back-End (ORM)
 
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description
-  This project tasked me with the opportunity to build the back end for an E-commerce wesbite. Using Express.js, MySQL2, and Sequelize, I was able to create a back-end database that keeps track of Products, product categories, tags, prices, and more.
+  This project tasked me with the opportunity to build the back end for an E-commerce website. Using Express.js, MySQL2, and Sequelize, I was able to create a back-end database that keeps track of products, product categories, tags, prices, and more. Watch this short video to see how this application is used: 
+  ![Screen Shot 2022-05-08 at 2 24 48 PM](https://user-images.githubusercontent.com/97822299/167312433-73c9d1b1-736e-455d-be86-ec395ccaa044.jpg)
 
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
   * [Licensing](#licensing)
-  * [Contributions](#contributions)
-  * [Testing](#testing)
   * [Questions](#questions)
   
   ## Installation
@@ -22,13 +21,7 @@
   ## Licensing
   This project is licensed under MIT
 
-  ## Contributions
-  none
-
-  ## Testing
-  none
-
   ## Questions
   * [Github Account](https://github.com/samanthawolff)
   * Email Me: samanthawolff07@gmail.com
-  * How to Reach out to me: enter later
+  * How to Reach Me: Please feel free to reach out to me via email if you have any questions, comments, or concerns!
