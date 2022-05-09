@@ -3,7 +3,7 @@
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description
-  This project tasked me with the opportunity to build the back end for an E-commerce website. Using Express.js, MySQL2, and Sequelize, I was able to create a back-end database that keeps track of products, product categories, tags, prices, and more. Watch this short video to see how this application is used: 
+  This project tasked me with the opportunity to build the back end for an E-commerce website. Using Express.js, MySQL2, and Sequelize, I was able to create a back-end database that keeps track of products, product categories, tags, prices, and more. Watch this short video to see how this application is used: https://photos.app.goo.gl/1oYJwpf5NcyV4NCR9
   ![Screen Shot 2022-05-08 at 2 24 48 PM](https://user-images.githubusercontent.com/97822299/167312433-73c9d1b1-736e-455d-be86-ec395ccaa044.jpg)
 
   ## Table of Contents
